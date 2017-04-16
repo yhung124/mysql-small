@@ -1,2 +1,2 @@
 # mysql-small
-A mysql contain with minimal memory
+A mysql container image with minimal memory
